@@ -20,13 +20,13 @@
 ### Вариант 1: установка из исходников
 Вариант 1: установка из исходников
 ```bash
-git clone https://github.com/Aproject618/ab_functions.git
+git clone https://github.com/Aproject618/bootstrap_package.git
 cd bootstrap_ab_test
 pip install .
 ```
 ### Вариант 2: установка напрямую через pip
 ```bash
-python3 -m pip install git+https://github.com/Aproject618/ab_functions.git
+python3 -m pip install git+https://github.com/Aproject618/bootstrap_package.git
 ```
 
 ### 🚀 Быстрый старт
