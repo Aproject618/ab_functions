@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='bootstrap_ab_test',
-    version='0.1.0',
+    version='0.1.1',
     description='Bootstrap-based A/B test analyzer',
     author='Ramis Sungatullin',
     author_email='aproject618@gmail.com',
